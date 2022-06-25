@@ -20,3 +20,6 @@ yarn-error.log*
 _old/
 
 .idea
+
+# Local Netlify folder
+.netlify
